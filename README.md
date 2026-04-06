@@ -18,11 +18,12 @@ The goal of this project is to create a basic game using control flow, randomiza
 ## How to Run
 1. Make sure Python is installed.
 2. Run the file:
-   ```bash
+   
+    ```bash
    python RockPaperScissors_AI.py
    ```
-4. Enter your move: rock, paper, or scissors.
-5. Type "quit" to exit the game.
+3. Enter your move: rock, paper, or scissors.
+4. Type "quit" to exit the game.
 
 ## Features
 - Score tracking (user, AI, ties)
