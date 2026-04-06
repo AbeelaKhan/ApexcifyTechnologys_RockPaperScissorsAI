@@ -1,4 +1,3 @@
-# ApexcifyTechnologys_Rock-Paper-Scissors-with-AI-Opponent
 # Rock-Paper-Scissors (AI Opponent)
 
 This is a simple Rock-Paper-Scissors game built in Python where the user plays against the computer.
